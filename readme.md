@@ -1,4 +1,2 @@
-this is a practice to learn dataAnalysis with python, numpy, pandas
-make some changes here.
-maybe changed
-will update later
+This is one of my projects from Data Analysis With Python Certification issued by FreeCodeCamp.
+Python, numpy, pandas are used.
